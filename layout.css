@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: sans-serif;
+
+}
+.container{
+    height: 50px;
+    padding: 10px 50px;
+}
+header{
+    background-color: white;
+}
+.navHeader{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.ulDiv{
+    display: flex;
+    flex-grow: 1;
+}
+.ulHeader{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.itemLink{
+    padding: 5px 20px;
+    color: black;
+    border-radius: 15px; border: 0;
+}
+.itemLink:hover{
+    background-color: #f4f4f4;
+    transition-duration: 0.5s;
+}
+.avatar{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 100px;
+}
+.logo{
+    padding: 16px 16px;
+    border-radius: 15px;
+    border: 0;
+    background-color: aquamarine
+}
