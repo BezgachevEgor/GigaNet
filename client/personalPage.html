@@ -9,7 +9,7 @@
     <header>
         <div class="container">
             <nav class="navHeader">
-                <a class="logo" href="">GigaNet</a>
+                <a class="logo" href="personalPage.html">GigaNet</a>
                 <div class="ulDiv">
                     <ul class="ulHeader">
                         <li class="item"><a class="chosen" href="">Моя страница</a></li>
@@ -27,41 +27,48 @@
         <div class="data" style="border-radius: 15px;">
             <div style="padding: 10px;">
                 <form method="post" id="userDataForm">
-                    <div class="data">
+                    <div class="data" style="justify-content: center">
                         <img src="unnamed.jpg" alt="defaultUser.png" id="userPhoto">
                         <h2>Присяжнюк Владислав Денисович</h2>
                     </div>
-                    <div style="padding: 0 90px">
-                        <div class="data">
-                            <label for="family">Фамилия</label>
-                            <input type="text" id="family" class="personalData" value="Присяжнюк">
+                    <div style="display: flex; justify-content: center">
+                        <div style="display: flex; flex-direction: column">
+                            <div class="data">
+                                <label for="family">Фамилия</label>
+                                <input type="text" id="family" class="personalData" value="Присяжнюк">
+                            </div>
+                            <div class="data">
+                                <label for="name">Имя</label>
+                                <input type="text" id="name" class="personalData" value="Владислав">
+                            </div>
+                            <div class="data">
+                                <label for="surname">Отчество</label>
+                                <input type="text" id="surname" class="personalData" value="Денисович">
+                            </div>
+                            <div class="data">
+                                <label for="phone">Номер телефона</label>
+                                <input type="text" id="phone" class="personalData" value="89294116057">
+                            </div>
+                            <div class="data">
+                                <label for="country">Страна</label>
+                                <input type="text" id="country" class="personalData" value="Российская Федерация">
+                            </div>
+                            <div class="data">
+                                <label for="town">Город</label>
+                                <input type="text" id="town" class="personalData" value="Хабаровск">
+                            </div>
+                            <div class="data">
+                                <label for="familyStatus">Семейное положение</label>
+                                <input type="text" id="familyStatus" class="personalData" value="Не указано">
+                            </div>
+                            <div class="data">
+                                <label for="familyStatus">Сменить фото</label>
+                                <input type="file" id="newPhoto">
+                            </div>
+                            <label for="selfInformation" style="margin-top: 0">О себе</label>
+                            <textarea id="selfInformation" placeholder="Не указано" aria-multiline="true"></textarea>
+                            <input type="submit" value="Изменить" id="changeButton">
                         </div>
-                        <div class="data">
-                            <label for="name">Имя</label>
-                            <input type="text" id="name" class="personalData" value="Владислав">
-                        </div>
-                        <div class="data">
-                            <label for="surname">Отчество</label>
-                            <input type="text" id="surname" class="personalData" value="Денисович">
-                        </div>
-                        <div class="data">
-                            <label for="phone">Номер телефона</label>
-                            <input type="text" id="phone" class="personalData" value="89294116057">
-                        </div>
-                        <div class="data">
-                            <label for="country">Страна</label>
-                            <input type="text" id="country" class="personalData" value="Российская Федерация">
-                        </div>
-                        <div class="data">
-                            <label for="town">Город</label>
-                            <input type="text" id="town" class="personalData" value="Хабаровск">
-                        </div>
-                        <div class="data">
-                            <label for="familyStatus">Семейное положение</label>
-                            <input type="text" id="familyStatus" class="personalData" value="Не указано">
-                        </div>
-                        <label for="selfInformation">О себе</label>
-                        <textarea id="selfInformation" placeholder="Не указано"></textarea>
                     </div>
                 </form>
             </div>

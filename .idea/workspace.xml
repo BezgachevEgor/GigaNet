@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Начата работа над личной страничкой">
+      <change beforePath="$PROJECT_DIR$/client/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zenvior&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6144df97-75a8-499e-b8c0-9cf21956cf36" />
+        <option name="url" value="https://github.com/BezgachevEgor/GigaNet.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dihuhYTC8cOldZbyeObQJJCsup" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.layout.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.personalPage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.registration.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="" />
+      <created>1710497032122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710497032122</updated>
+      <workItem from="1710497033457" duration="1278000" />
+      <workItem from="1710550243872" duration="6239000" />
+      <workItem from="1710556525063" duration="27000" />
+      <workItem from="1710569214549" duration="6997000" />
+    </task>
+    <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
+      <option name="closed" value="true" />
+      <created>1710497312280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497312280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Прописаны пара ссылок и изменено имя файла">
+      <option name="closed" value="true" />
+      <created>1710497645616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497645616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Прописаны пара ссылок и изменено имя файла">
+      <option name="closed" value="true" />
+      <created>1710497721086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497721086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Прописаны пара ссылок и изменено имя файла">
+      <option name="closed" value="true" />
+      <created>1710556231220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710556231220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Начата работа над личной страничкой">
+      <option name="closed" value="true" />
+      <created>1710556443659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710556443659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Прописаны пара ссылок и изменено имя файла" />
+    <MESSAGE value="Начата работа над личной страничкой" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начата работа над личной страничкой" />
+  </component>
+</project>
