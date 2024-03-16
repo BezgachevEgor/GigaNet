@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: sans-serif;
+
+}
+.container{
+    height: 50px;
+    padding: 10px 50px;
+}
+header{
+    background-color: white;
+}
+.navHeader{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.ulDiv{
+    display: flex;
+    flex-grow: 1;
+}
+.ulHeader{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.chosen{
+    padding: 5px 20px;
+    color: black;
+    border-radius: 15px; border: 0;
+    background-color: #f4f4f4;
+}
+.itemLink{
+    padding: 5px 20px;
+    color: black;
+    border-radius: 15px; border: 0;
+}
+.itemLink:hover{
+    background-color: #f4f4f4;
+    transition-duration: 0.5s;
+}
+.avatar{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 100px;
+}
+.logo{
+    padding: 16px 16px;
+    border-radius: 15px;
+    border: 0;
+    background-color: aquamarine
+}
+.data{
+    display: flex;
+    justify-content: right;
+    background-color: white;
+}
+#userPhoto{
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 200px;
+}
+.mainContainer{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 30px;
+}
+h2{
+    position: relative;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.personalData{
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+label{
+    margin-right: 10px;
+    margin-top: 8px;
+}
