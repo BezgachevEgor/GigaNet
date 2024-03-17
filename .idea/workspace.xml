@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Начата работа над личной страничкой">
-      <change beforePath="$PROJECT_DIR$/client/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="На форму авторизации добавлена маска для телефона">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,9 @@
       <workItem from="1710497033457" duration="1278000" />
       <workItem from="1710550243872" duration="6239000" />
       <workItem from="1710556525063" duration="27000" />
-      <workItem from="1710569214549" duration="6997000" />
+      <workItem from="1710569214549" duration="7127000" />
+      <workItem from="1710651169509" duration="1728000" />
+      <workItem from="1710655556628" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -125,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710556443659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Личная страница готова, справа от неё будут посты пользователя">
+      <option name="closed" value="true" />
+      <created>1710577380517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577380517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Прописаны пара ссылок и изменено имя файла" />
     <MESSAGE value="Начата работа над личной страничкой" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начата работа над личной страничкой" />
+    <MESSAGE value="Личная страница готова, справа от неё будут посты пользователя" />
+    <MESSAGE value="На форму авторизации добавлена маска для телефона" />
+    <option name="LAST_COMMIT_MESSAGE" value="На форму авторизации добавлена маска для телефона" />
   </component>
 </project>
