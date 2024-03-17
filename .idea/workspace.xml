@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="На форму авторизации добавлена маска для телефона">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Доработан размер формы авторизации">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/registration.html" afterDir="false" />
@@ -85,7 +85,7 @@
       <workItem from="1710556525063" duration="27000" />
       <workItem from="1710569214549" duration="7127000" />
       <workItem from="1710651169509" duration="1728000" />
-      <workItem from="1710655556628" duration="3051000" />
+      <workItem from="1710655556628" duration="4335000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710656722470</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Доработан размер формы авторизации">
+      <option name="closed" value="true" />
+      <created>1710658677348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710658677348</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
     <MESSAGE value="Начата работа над личной страничкой" />
     <MESSAGE value="Личная страница готова, справа от неё будут посты пользователя" />
     <MESSAGE value="На форму авторизации добавлена маска для телефона" />
-    <option name="LAST_COMMIT_MESSAGE" value="На форму авторизации добавлена маска для телефона" />
+    <MESSAGE value="Доработан размер формы авторизации" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработан размер формы авторизации" />
   </component>
 </project>
