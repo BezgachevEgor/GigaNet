@@ -40,12 +40,12 @@ label{
     height: 100%;
     border: black 1px solid;
     border-radius: 5px;
-    background-color: aquamarine;
+    background-color: lightgreen;
     font-size: 20px;
     padding: 6.5px 0;
 }
 #formButton:hover{
-    background-color: aqua;
+    background-color: mediumseagreen;
     transition-duration: 0.5s;
     cursor: pointer;
 }
