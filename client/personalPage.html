@@ -70,7 +70,7 @@
                                 </select>
                             </div>
                             <div class="data">
-                                <label for="familyStatus">Сменить фото</label>
+                                <label for="newPhoto">Сменить фото</label>
                                 <input type="file" id="newPhoto">
                             </div>
                             <label for="selfInformation" style="margin-top: 0">О себе</label>
@@ -84,6 +84,27 @@
         </div>
     </div>
     <div class="posts">
+        <div class="postContainer">
+            <div style="padding: 10px">
+                <div class="postData" style="text-align: left">
+                    <div class="postHeader">
+                        <a href=""><img src="unnamed.jpg" alt="defaultUser.png" class="avatar"></a>
+                        <h4>Присяжнюк Владислав</h4>
+                    </div>
+                    <div style="display: flex; flex-direction: column; justify-content: left">
+                        <label for="postInformation" style="margin-top: 0">Текст поста</label>
+                        <textarea id="postInformation" placeholder="Не указано" aria-multiline="true"></textarea>
+                    </div>
+                    <div style="margin-top: 20px">
+                        <label for="postPhoto">Добавить фото</label>
+                        <input type="file" id="postPhoto">
+                    </div>
+                    <div class="postButtons">
+                        <button class="publishButton">Publish</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="postContainer">
             <div style="padding: 10px">
                 <div class="postData">

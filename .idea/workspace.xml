@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Доработа форма регистрации (вывод ошибки)">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Доработана личная страничка">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/forms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +71,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,6 +92,10 @@
       <workItem from="1710806126615" duration="4785000" />
       <workItem from="1710812468540" duration="2434000" />
       <workItem from="1710815822081" duration="101000" />
+      <workItem from="1710831875396" duration="85000" />
+      <workItem from="1711320028497" duration="1826000" />
+      <workItem from="1711331063006" duration="2400000" />
+      <workItem from="1711360103477" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -172,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710660823142</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Доработана личная страничка">
+      <option name="closed" value="true" />
+      <created>1710831912542</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710831912542</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +199,7 @@
     <MESSAGE value="Доработан размер формы авторизации" />
     <MESSAGE value="Доработано выведение ошибок в форме авторизации (после полей)" />
     <MESSAGE value="Доработа форма регистрации (вывод ошибки)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доработа форма регистрации (вывод ошибки)" />
+    <MESSAGE value="Доработана личная страничка" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработана личная страничка" />
   </component>
 </project>
