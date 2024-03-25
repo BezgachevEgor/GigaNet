@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Доработана личная страничка">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Попытка убрать ошибки с регистрации">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/regValid.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/regValid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,9 @@
       <workItem from="1710831875396" duration="85000" />
       <workItem from="1711320028497" duration="1826000" />
       <workItem from="1711331063006" duration="2400000" />
-      <workItem from="1711360103477" duration="1332000" />
+      <workItem from="1711360103477" duration="1394000" />
+      <workItem from="1711365446523" duration="283000" />
+      <workItem from="1711367998572" duration="555000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710831912542</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Добавлен конструктор постов">
+      <option name="closed" value="true" />
+      <created>1711361489306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711361489306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +209,8 @@
     <MESSAGE value="Доработано выведение ошибок в форме авторизации (после полей)" />
     <MESSAGE value="Доработа форма регистрации (вывод ошибки)" />
     <MESSAGE value="Доработана личная страничка" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доработана личная страничка" />
+    <MESSAGE value="Добавлен конструктор постов" />
+    <MESSAGE value="Попытка убрать ошибки с регистрации" />
+    <option name="LAST_COMMIT_MESSAGE" value="Попытка убрать ошибки с регистрации" />
   </component>
 </project>
