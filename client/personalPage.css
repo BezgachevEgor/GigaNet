@@ -56,8 +56,9 @@ a{
 }
 .errorBox{
     display: flex;
-    justify-content: center;
-    margin-top: 10px;
+    justify-content: right;
+    margin-top: -10px;
+    margin-bottom: 10px;
 }
 .data{
     display: flex;
