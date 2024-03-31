@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Попытка убрать ошибки с регистрации">
+      <change afterPath="$PROJECT_DIR$/client/widePhoto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/regValid.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/regValid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\vladpris\WebstormProjects\GigaNet\client" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +102,8 @@
       <workItem from="1711331063006" duration="2400000" />
       <workItem from="1711360103477" duration="1394000" />
       <workItem from="1711365446523" duration="283000" />
-      <workItem from="1711367998572" duration="555000" />
+      <workItem from="1711367998572" duration="699000" />
+      <workItem from="1711866622827" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -194,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711361489306</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Попытка убрать ошибки с регистрации">
+      <option name="closed" value="true" />
+      <created>1711368610606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711368610606</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
