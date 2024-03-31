@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Любое фото теперь нормального размера">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Добавлен вывод ошибок в личной страничке">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +102,8 @@
       <workItem from="1711365446523" duration="283000" />
       <workItem from="1711367998572" duration="699000" />
       <workItem from="1711866622827" duration="1123000" />
-      <workItem from="1711882997895" duration="329000" />
+      <workItem from="1711882997895" duration="605000" />
+      <workItem from="1711884296271" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -217,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711867511007</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Добавлен вывод ошибок в личной страничке">
+      <option name="closed" value="true" />
+      <created>1711883589353</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711883589353</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +243,7 @@
     <MESSAGE value="Добавлен конструктор постов" />
     <MESSAGE value="Попытка убрать ошибки с регистрации" />
     <MESSAGE value="Любое фото теперь нормального размера" />
-    <option name="LAST_COMMIT_MESSAGE" value="Любое фото теперь нормального размера" />
+    <MESSAGE value="Добавлен вывод ошибок в личной страничке" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен вывод ошибок в личной страничке" />
   </component>
 </project>
