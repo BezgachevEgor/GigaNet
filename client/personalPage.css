@@ -54,6 +54,11 @@ a{
     border: 0;
     background-color: lightgreen;
 }
+.errorBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
 .data{
     display: flex;
     justify-content: right;
