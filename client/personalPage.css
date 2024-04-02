@@ -76,13 +76,13 @@ a{
     border-radius: 200px;
 }
 .publishButton{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: lightgreen;
     font-size: 20px;
     margin-top: 10px;
     margin-right: 2%;
-    padding: 5px;
+    padding: 10px;
 }
 .publishButton:hover{
     background-color: mediumseagreen;
@@ -96,10 +96,10 @@ a{
     margin-bottom: 20px;
 }
 #postPhoto::file-selector-button{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: lightgreen;
-    padding: 5px;
+    padding: 10px;
 }
 #postPhoto::file-selector-button:hover{
     background-color: mediumseagreen;
@@ -113,10 +113,10 @@ a{
     margin-bottom: 20px;
 }
 #newPhoto::file-selector-button{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: lightgreen;
-    padding: 5px;
+    padding: 10px;
 }
 #newPhoto::file-selector-button:hover{
     background-color: mediumseagreen;
@@ -155,14 +155,14 @@ label{
     border-radius: 10px;
 }
 #exitButton{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: #ea4444;
     font-size: 20px;
     margin-top: 10px;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 5px;
+    padding: 10px;
 }
 #exitButton:hover{
     background-color: #cc5151;
@@ -170,14 +170,14 @@ label{
     cursor: pointer;
 }
 #changeButton{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: lightgreen;
     font-size: 20px;
     margin-top: 10px;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 5px;
+    padding: 10px;
 }
 #changeButton:hover{
     background-color: mediumseagreen;
@@ -190,7 +190,7 @@ label{
     margin-left: 52%;
     margin-right: 12%;
     overflow-y: scroll;
-    max-height: 800px;
+    max-height: 910px;
 }
 .postContainer{
     background-color: white;
@@ -206,13 +206,13 @@ label{
     justify-content: left;
 }
 .likeButton{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: lightgreen;
     font-size: 20px;
     margin-top: 10px;
     margin-right: 2%;
-    padding: 5px;
+    padding: 10px;
 }
 .likeButton:hover{
     background-color: mediumseagreen;
@@ -220,13 +220,13 @@ label{
     cursor: pointer;
 }
 .dislikeButton{
-    border: black 1px solid;
+    border: 0;
     border-radius: 10px;
     background-color: #ea4444;
     font-size: 20px;
     margin-top: 10px;
     margin-right: 20%;
-    padding: 5px;
+    padding: 10px;
 }
 .dislikeButton:hover{
     background-color: #cc5151;

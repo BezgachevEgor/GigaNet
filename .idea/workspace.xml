@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Ошибка там где надо на личной странице" />
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Ошибка сервера на личной странице">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,26 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.layout.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.personalPage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.registration.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.friends.html.executor": "Run",
+    "JavaScript Debug.groupPage.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.layout.html.executor": "Run",
+    "JavaScript Debug.personalPage.html.executor": "Run",
+    "JavaScript Debug.registration.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vladpris\WebstormProjects\GigaNet\client" />
@@ -102,6 +110,9 @@
       <workItem from="1711882997895" duration="605000" />
       <workItem from="1711884296271" duration="256000" />
       <workItem from="1711885077541" duration="496000" />
+      <workItem from="1711885659171" duration="45000" />
+      <workItem from="1712015778322" duration="4179000" />
+      <workItem from="1712022879283" duration="3289000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -239,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711885331747</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Ошибка сервера на личной странице">
+      <option name="closed" value="true" />
+      <created>1711885690112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711885690112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +279,7 @@
     <MESSAGE value="Добавлен вывод ошибок в личной страничке" />
     <MESSAGE value="Добавлена электронная почта в личную страничку" />
     <MESSAGE value="Ошибка там где надо на личной странице" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ошибка там где надо на личной странице" />
+    <MESSAGE value="Ошибка сервера на личной странице" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ошибка сервера на личной странице" />
   </component>
 </project>

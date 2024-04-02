@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Страница группы "Название"</title>
+    <link rel="stylesheet" href="personalPage.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <nav class="navHeader">
+            <a class="logo" href="personalPage.html">GigaNet</a>
+            <div class="ulDiv">
+                <ul class="ulHeader">
+                    <li class="item"><a class="itemLink" href="personalPage.html">Моя страница</a></li>
+                    <li class="item"><a class="itemLink" href="friends.html">Друзья</a></li>
+                    <li class="item"><a class="itemLink" href="groups.html">Сообщества</a></li>
+                </ul>
+            </div>
+            <div style="margin-left: 100px">
+                <a href=""><img src="widePhoto.jpg" alt="defaultUser.png" class="avatar"></a>
+            </div>
+        </nav>
+    </div>
+</header>
+<div class="mainContainer">
+    <div class="data" style="border-radius: 15px;">
+        <div style="padding: 10px;">
+            <form method="post" id="userDataForm">
+                <div class="data" style="justify-content: center">
+                    <img src="widePhoto.jpg" alt="Ваше фото" id="userPhoto">
+                    <h2>Программисты C#</h2>
+                </div>
+                <div style="display: flex; justify-content: center">
+                    <div style="display: flex; flex-direction: column">
+                        <div class="data">
+                            <label for="family">Название</label>
+                            <input type="text" id="family" class="personalData" value="Программисты C#" placeholder="Название">
+                        </div>
+                        <div class="data">
+                            <label for="admin">Администратор</label>
+                            <input type="text" id="admin" class="personalData" value="Безг Егорян" placeholder="Администратор">
+                        </div>
+                        <div class="data">
+                            <label for="newPhoto">Сменить фото</label>
+                            <input type="file" id="newPhoto">
+                        </div>
+                        <label for="selfInformation" style="margin-top: 0">О группе</label>
+                        <textarea id="selfInformation" placeholder="Не указано" aria-multiline="true"></textarea>
+                        <div class="errorServer">
+                            <span>Ошибка на сервере</span>
+                        </div>
+                        <input type="submit" value="Изменить" id="changeButton">
+                        <input type="submit" value="Выйти" id="exitButton">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="posts">
+    <div class="postContainer">
+        <div style="padding: 10px">
+            <div class="postData" style="text-align: left">
+                <div class="postHeader">
+                    <a href=""><img src="unnamed.jpg" alt="defaultUser.png" class="avatar"></a>
+                    <h4>Программисты C#</h4>
+                </div>
+                <div style="display: flex; flex-direction: column; justify-content: left">
+                    <label for="postInformation" style="margin-top: 0">Текст поста</label>
+                    <textarea id="postInformation" placeholder="Не указано" aria-multiline="true"></textarea>
+                </div>
+                <div style="margin-top: 20px">
+                    <label for="postPhoto">Добавить фото</label>
+                    <input type="file" id="postPhoto">
+                </div>
+                <div class="postButtons">
+                    <button class="publishButton">Publish</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="postContainer">
+        <div style="padding: 10px">
+            <div class="postData">
+                <div class="postHeader">
+                    <a href=""><img src="unnamed.jpg" alt="defaultUser.png" class="avatar"></a>
+                    <h4>Программисты C#</h4>
+                </div>
+                <div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis harum illum perspiciatis. Ab architecto blanditiis dolores, doloribus ipsa quam reprehenderit, rerum sequi, similique temporibus unde voluptatem! Debitis error quisquam ullam!</p>
+                </div>
+                <div style="text-align: center">
+                    <img src="widePhoto.jpg" alt="Post Image" class="postImage">
+                </div>
+                <div class="postButtons">
+                    <button class="likeButton">Like</button>
+                    <button class="dislikeButton">Dislike</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="postContainer">
+        <div style="padding: 10px">
+            <div class="postData">
+                <div class="postHeader">
+                    <a href=""><img src="unnamed.jpg" alt="defaultUser.png" class="avatar"></a>
+                    <h4>ППрограммисты C#</h4>
+                </div>
+                <div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis harum illum perspiciatis. Ab architecto blanditiis dolores, doloribus ipsa quam reprehenderit, rerum sequi, similique temporibus unde voluptatem! Debitis error quisquam ullam!</p>
+                </div>
+                <div style="text-align: center">
+                    <img src="defaultUser.png" alt="Post Image" class="postImage">
+                </div>
+                <div class="postButtons">
+                    <button class="likeButton">Like</button>
+                    <button class="dislikeButton">Dislike</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="postContainer">
+        <div style="padding: 10px">
+            <div class="postData">
+                <div class="postHeader">
+                    <a href=""><img src="unnamed.jpg" alt="defaultUser.png" class="avatar"></a>
+                    <h4>Программисты C#</h4>
+                </div>
+                <div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis harum illum perspiciatis. Ab architecto blanditiis dolores, doloribus ipsa quam reprehenderit, rerum sequi, similique temporibus unde voluptatem! Debitis error quisquam ullam!</p>
+                </div>
+                <div style="text-align: center">
+                    <img src="defaultUser.png" alt="Post Image" class="postImage">
+                </div>
+                <div class="postButtons">
+                    <button class="likeButton">Like</button>
+                    <button class="dislikeButton">Dislike</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
