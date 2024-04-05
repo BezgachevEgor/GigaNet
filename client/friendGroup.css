@@ -55,7 +55,6 @@ a{
     background-color: lightgreen
 }
 .mainContainer{
-    border-radius: 5px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -63,8 +62,9 @@ a{
 }
 .friendsContainer{
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    background-color: white;
+    margin-top: 50px;
 }
 .searchContainer{
     display: flex;
@@ -88,14 +88,20 @@ h2{
     justify-content: left;
     flex-direction: column;
     overflow-y: scroll;
-    max-height: 400px;
+    height: 400px;
+}
+.friendBox{
+    padding: 10px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
 }
 a{
     color: black;
 }
 .searchInput{
     height: 30px;
-    width: 500px;
+    width: 300px;
     border-radius: 10px 0 0 10px;
     padding-left: 10px;
 }
@@ -103,7 +109,7 @@ a{
     font-size: 14px;
     margin-left: -5px;
     height: 35px;
-    width: 100px;
+    width: 80px;
     border-radius: 0 10px 10px 0;
     background-color: lightgreen;
 }
@@ -111,4 +117,9 @@ a{
     background-color: mediumseagreen;
     transition-duration: 0.5s;
     cursor: pointer;
+}
+.searchDefault{
+    text-align: center;
+    margin-top: 40%;
+    color: grey;
 }
