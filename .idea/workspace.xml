@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Много новых страничек">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Поиск новых друзей изменён">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/friendGroup.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/friendGroup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/friends.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,8 @@
       <workItem from="1712015778322" duration="4179000" />
       <workItem from="1712022879283" duration="3289000" />
       <workItem from="1712031007453" duration="200000" />
-      <workItem from="1712320473684" duration="1681000" />
+      <workItem from="1712320473684" duration="1931000" />
+      <workItem from="1712624416070" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -266,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712031064650</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Поиск новых друзей изменён">
+      <option name="closed" value="true" />
+      <created>1712322404754</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712322404754</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +296,7 @@
     <MESSAGE value="Ошибка там где надо на личной странице" />
     <MESSAGE value="Ошибка сервера на личной странице" />
     <MESSAGE value="Много новых страничек" />
-    <option name="LAST_COMMIT_MESSAGE" value="Много новых страничек" />
+    <MESSAGE value="Поиск новых друзей изменён" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поиск новых друзей изменён" />
   </component>
 </project>
