@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Добавлена страничка друга">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Обновлён поиск сообществ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,30 +50,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.friendPage.html.executor": "Run",
-    "JavaScript Debug.friends.html.executor": "Run",
-    "JavaScript Debug.groupPage.html.executor": "Run",
-    "JavaScript Debug.groups.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.layout.html.executor": "Run",
-    "JavaScript Debug.personalPage.html.executor": "Run",
-    "JavaScript Debug.registration.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.friendPage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.friends.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.groupPage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.groups.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.layout.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.personalPage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.registration.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vladpris\WebstormProjects\GigaNet\client" />
@@ -115,6 +113,9 @@
       <workItem from="1712320473684" duration="1931000" />
       <workItem from="1712624416070" duration="137000" />
       <workItem from="1713081937219" duration="1234000" />
+      <workItem from="1713083953592" duration="633000" />
+      <workItem from="1713172645142" duration="1267000" />
+      <workItem from="1713173929148" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -284,13 +285,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713082511114</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Обновлён поиск сообществ">
+      <option name="closed" value="true" />
+      <created>1713084524892</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713084524892</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Прописаны пара ссылок и изменено имя файла" />
     <MESSAGE value="Начата работа над личной страничкой" />
     <MESSAGE value="Личная страница готова, справа от неё будут посты пользователя" />
@@ -309,6 +319,7 @@
     <MESSAGE value="Много новых страничек" />
     <MESSAGE value="Поиск новых друзей изменён" />
     <MESSAGE value="Добавлена страничка друга" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена страничка друга" />
+    <MESSAGE value="Обновлён поиск сообществ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновлён поиск сообществ" />
   </component>
 </project>

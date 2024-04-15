@@ -205,13 +205,21 @@ label{
     display: flex;
     justify-content: left;
 }
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+.postImageBox{
+    text-align: center;
+    margin-bottom: 10px
+}
 .likeButton{
     border: 0;
     border-radius: 10px;
     background-color: lightgreen;
     font-size: 20px;
-    margin-top: 10px;
-    margin-right: 2%;
     padding: 10px;
 }
 .likeButton:hover{
@@ -224,8 +232,6 @@ label{
     border-radius: 10px;
     background-color: #ea4444;
     font-size: 20px;
-    margin-top: 10px;
-    margin-right: 20%;
     padding: 10px;
 }
 .dislikeButton:hover{
