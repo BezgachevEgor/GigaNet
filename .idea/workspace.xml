@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Обновлён поиск сообществ" />
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Добавлен счётчик лайков и дизлайков">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +120,8 @@
       <workItem from="1713083953592" duration="633000" />
       <workItem from="1713172645142" duration="1267000" />
       <workItem from="1713173929148" duration="17000" />
+      <workItem from="1713173965939" duration="66000" />
+      <workItem from="1713234337712" duration="1525000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -293,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713084524892</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Добавлен счётчик лайков и дизлайков">
+      <option name="closed" value="true" />
+      <created>1713174001305</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713174001305</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +315,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Прописаны пара ссылок и изменено имя файла" />
     <MESSAGE value="Начата работа над личной страничкой" />
     <MESSAGE value="Личная страница готова, справа от неё будут посты пользователя" />
@@ -320,6 +335,7 @@
     <MESSAGE value="Поиск новых друзей изменён" />
     <MESSAGE value="Добавлена страничка друга" />
     <MESSAGE value="Обновлён поиск сообществ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновлён поиск сообществ" />
+    <MESSAGE value="Добавлен счётчик лайков и дизлайков" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен счётчик лайков и дизлайков" />
   </component>
 </project>

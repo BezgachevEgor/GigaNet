@@ -140,6 +140,14 @@ h2{
     border-radius: 10px;
     margin-bottom: 20px;
 }
+.personalData:disabled{
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: #000000;
+    opacity: 1;
+}
 label{
     margin-right: 10px;
     margin-top: 8px;
@@ -200,6 +208,17 @@ label{
 .postHeader{
     display: flex;
     justify-content: left;
+}
+.delButton{
+    padding: 10px 23px;
+    background-color: white;
+    margin-left: 42%;
+    border: black 1px solid;
+    border-radius: 50px;
+}
+.delButton:hover{
+    background-color: #f4f4f4;
+    cursor: pointer;
 }
 .postButtons{
     display: flex;
