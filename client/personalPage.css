@@ -210,14 +210,11 @@ label{
     justify-content: left;
 }
 .delButton{
-    padding: 10px 23px;
-    background-color: white;
-    margin-left: 42%;
-    border: black 1px solid;
-    border-radius: 50px;
+    font-size: 20px;
+    color: black;
 }
 .delButton:hover{
-    background-color: #f4f4f4;
+    color: grey;
     cursor: pointer;
 }
 .postButtons{

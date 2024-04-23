@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Добавлен счётчик лайков и дизлайков">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
-    </list>
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Добавлена кнопка удаления поста" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +118,7 @@
       <workItem from="1713173929148" duration="17000" />
       <workItem from="1713173965939" duration="66000" />
       <workItem from="1713234337712" duration="1525000" />
+      <workItem from="1713510087960" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -307,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713174001305</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Добавлена кнопка удаления поста">
+      <option name="closed" value="true" />
+      <created>1713511058866</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713511058866</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +341,7 @@
     <MESSAGE value="Добавлена страничка друга" />
     <MESSAGE value="Обновлён поиск сообществ" />
     <MESSAGE value="Добавлен счётчик лайков и дизлайков" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлен счётчик лайков и дизлайков" />
+    <MESSAGE value="Добавлена кнопка удаления поста" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена кнопка удаления поста" />
   </component>
 </project>
