@@ -78,6 +78,26 @@
                 <h3 class="searchDefault">Найдите новых сообщества</h3>
             </div>
         </div>
+        <div class="friendBox" style="margin-left: 20px;">
+            <h2>Создать сообщество</h2>
+            <div class="groupFormContainer">
+                <form method="post" id="groupForm">
+                    <div class="groupFormData">
+                        <label for="groupName">Название группы</label>
+                        <input class="inputGroupData" type="text" id="groupName" placeholder="Название группы">
+                    </div>
+                    <div class="groupFormData">
+                        <label for="groupPhoto">Фото</label>
+                        <input type="file" id="groupPhoto">
+                    </div>
+                    <label for="selfInformation" style="margin-top: 0">О группе</label>
+                    <textarea id="selfInformation" placeholder="Не указано" aria-multiline="true"></textarea>
+                    <div class="groupFormData">
+                        <button type="submit" id="groupCreateButton">Создать</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 </div>
 </body>

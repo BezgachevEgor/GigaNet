@@ -123,3 +123,65 @@ a{
     margin-top: 40%;
     color: grey;
 }
+.groupFormContainer{
+    display: flex;
+    justify-content: center;
+}
+#groupForm{
+    display: flex;
+    flex-direction: column;
+}
+.groupFormData{
+    text-align: center;
+    position: relative;
+    margin-top: 45px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.inputGroupData{
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+label{
+    margin-right: 10px;
+    margin-top: 8px;
+}
+#groupCreateButton{
+    border: 0;
+    border-radius: 10px;
+    background-color: lightgreen;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+}
+#groupCreateButton:hover{
+    background-color: mediumseagreen;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#groupPhoto{
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 15px;
+    margin-bottom: 45px;
+}
+#groupPhoto::file-selector-button{
+    border: 0;
+    border-radius: 10px;
+    background-color: lightgreen;
+    padding: 10px;
+}
+#groupPhoto::file-selector-button:hover{
+    background-color: mediumseagreen;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#selfInformation{
+    resize: none;
+    min-height: 60px;
+    border-radius: 10px;
+}
