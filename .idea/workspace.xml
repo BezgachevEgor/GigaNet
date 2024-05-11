@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="">
+    <list default="true" id="9e608133-e1b4-4e52-99de-c53211d36bb6" name="Changes" comment="Правки макета">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/friendGroup.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/friendGroup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/groupPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/groupPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/personalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/personalPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +126,8 @@
       <workItem from="1714435542862" duration="354000" />
       <workItem from="1714441113551" duration="1109000" />
       <workItem from="1715389771217" duration="539000" />
+      <workItem from="1715390346154" duration="704000" />
+      <workItem from="1715395867253" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="Прописаны пара ссылок и изменено имя файла">
       <option name="closed" value="true" />
@@ -339,7 +337,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714293194714</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Правки макета">
+      <option name="closed" value="true" />
+      <created>1715390375875</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715390375875</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Правки макета">
+      <option name="closed" value="true" />
+      <created>1715391042553</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715391042553</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +385,7 @@
     <MESSAGE value="Добавлена кнопка удаления поста" />
     <MESSAGE value="Изменена кнопка удаления поста" />
     <MESSAGE value="Добавлена кнопка вступить в группу. Добавлена форма создания группы." />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена кнопка вступить в группу. Добавлена форма создания группы." />
+    <MESSAGE value="Правки макета" />
+    <option name="LAST_COMMIT_MESSAGE" value="Правки макета" />
   </component>
 </project>
