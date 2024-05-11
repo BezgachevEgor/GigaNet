@@ -13,7 +13,7 @@
             <div class="ulDiv">
                 <ul class="ulHeader">
                     <li class="item"><a class="itemLink" href="personalPage.html">Моя страница</a></li>
-                    <li class="item"><a class="itemLink" href="friends.html">Друзья</a></li>
+                    <li class="item"><a class="itemLink" href="friends.html">Подписки</a></li>
                     <li class="item"><a class="chosen" href="">Сообщества</a></li>
                 </ul>
             </div>
@@ -92,7 +92,10 @@
                     </div>
                     <label for="selfInformation" style="margin-top: 0">О группе</label>
                     <textarea id="selfInformation" placeholder="Не указано" aria-multiline="true"></textarea>
-                    <div class="groupFormData">
+                    <div class="errorServer">
+                        <span>Ошибка на сервере</span>
+                    </div>
+                    <div class="groupFormData" style="margin-top: 20px">
                         <button type="submit" id="groupCreateButton">Создать</button>
                     </div>
                 </form>

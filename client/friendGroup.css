@@ -185,3 +185,8 @@ label{
     min-height: 60px;
     border-radius: 10px;
 }
+.errorServer{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
